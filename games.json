@@ -1,22 +1,13 @@
 {
   "games": [
     {
-      "id": "gioco_platform",
-      "name": "Super Adventure Boy",
+      "id": "gioco_rock1",
+      "name": "Rock Game 1",
       "version": "1.0.0",
-      "description": "Un fantastico gioco platform pixel-art dove devi raccogliere monete e sconfiggere mostri in oltre 50 livelli diversi!",
-      "image_url": "https://raw.githubusercontent.com/tuo-username/tuo-repository/main/immagini/platform.png",
-      "download_url": "https://github.com/tuo-username/tuo-repository/releases/download/v1.0.0/gioco_platform.zip",
-      "exe_name": "AdventureBoy.exe"
-    },
-    {
-      "id": "gioco_corse",
-      "name": "Retro Racer 2026",
-      "version": "1.2.1",
-      "description": "Sfreccia su piste neon anni '80 in questo simulatore di corse arcade ad alta velocità. Include modalità multiplayer.",
+      "description": "Sconfiggi le rocce e salva il mondo da un'apocalisse. Include Multiplayer (Beta). Gioco deprecato",
       "image_url": "https://raw.githubusercontent.com/tuo-username/tuo-repository/main/immagini/racer.png",
       "download_url": "https://github.com/tuo-username/tuo-repository/releases/download/v1.2.1/retro_racer.zip",
-      "exe_name": "RetroRacer.exe"
+      "exe_name": "Rock.exe"
     }
   ]
 }
