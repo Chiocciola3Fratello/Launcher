@@ -2,7 +2,7 @@
   "games": [
     {
       "id": "gioco_rock1",
-      "name": "Rock Game 1",
+      "name": "Rock Game 2",
       "version": "1.0.0",
       "description": "Sconfiggi le rocce e salva il mondo da un'apocalisse. Include Multiplayer (Beta). Gioco deprecato",
       "image_url": "https://raw.githubusercontent.com/tuo-username/tuo-repository/main/immagini/racer.png",
